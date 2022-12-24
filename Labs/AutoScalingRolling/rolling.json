@@ -36,7 +36,7 @@
         "Ec2InstanceKeyName": {
             "Description": "EC2 SSH KEY",
             "Type": "AWS::EC2::KeyPair::KeyName",
-            "Default": "SSHKey"
+            "Default": "amitkp"
         },
         "Ec2InstanceTagName": {
             "Description": "EC2 Tag Name",
